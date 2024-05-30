@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: aa98406e126baf4479e77877d9837be8
+guid: d72d1a6125ccefe4ebb5ef77676ba802
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blue_clothes_0
+      name: hair_2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2557bd1bcc670354e8c3790fd0b5fdbe
-      internalID: -1207911251
+      spriteID: 8247cb702751a6746aefc9efa35d70e4
+      internalID: 1343600318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_1
+      name: hair_2_1
       rect:
         serializedVersion: 2
         x: 64
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7e7caa77c8f7724ba9d09e62bfc847f
-      internalID: -708931087
+      spriteID: 9bd8059da5599ca49b62e388b3fb4def
+      internalID: 1547437369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_2
+      name: hair_2_2
       rect:
         serializedVersion: 2
         x: 128
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0090cef08e32b54fb0e2cc58a90a31a
-      internalID: -1730406902
+      spriteID: 33ebe97a5188d92429eb9609ea84f964
+      internalID: 1058833478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_3
+      name: hair_2_3
       rect:
         serializedVersion: 2
         x: 192
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3291b814113b1cb439b8d0ac5a1ecedc
-      internalID: -907326900
+      spriteID: 8719539726092a94a8403ed3b5ac7a2f
+      internalID: -460537085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_4
+      name: hair_2_4
       rect:
         serializedVersion: 2
         x: 256
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f366e4802f5a744419233f1669dab4ed
-      internalID: -739434694
+      spriteID: 8a4676e1876d7b34f933b0132cc141d6
+      internalID: 194283681
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_5
+      name: hair_2_5
       rect:
         serializedVersion: 2
         x: 320
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3280ca70fd41eb45b194ddc096aa48e
-      internalID: 1216561651
+      spriteID: 2b282b040fe221542b539b3e892ed988
+      internalID: -1947509608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_6
+      name: hair_2_6
       rect:
         serializedVersion: 2
         x: 384
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f364b1352bb5414bb4932926363f4b3
-      internalID: -57612865
+      spriteID: f252083f808b3bb4080952c53f94c102
+      internalID: -1157677488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_7
+      name: hair_2_7
       rect:
         serializedVersion: 2
         x: 448
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bced86ae74f4fd3488f533a74d3a66e5
-      internalID: 423376180
+      spriteID: c98d1510c83452841b7cb3b678924f78
+      internalID: 850400026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_8
+      name: hair_2_8
       rect:
         serializedVersion: 2
         x: 0
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c867f7d9efae4b419e6a72612d3bcf7
-      internalID: -1338933747
+      spriteID: f6136a7c768e5684c9d95cff5be3aece
+      internalID: -1702254467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_9
+      name: hair_2_9
       rect:
         serializedVersion: 2
         x: 64
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1e1be4b50c79844b879d4db2628d94d
-      internalID: 1622424691
+      spriteID: b33779e189ab7054297ad5bbe0329067
+      internalID: 1224013851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_10
+      name: hair_2_10
       rect:
         serializedVersion: 2
         x: 128
@@ -321,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 436ebd587e496f14fb3e728978434927
-      internalID: 1977589503
+      spriteID: 94a5853d295bbb34dbf740e4494c8ac5
+      internalID: -1517495526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_11
+      name: hair_2_11
       rect:
         serializedVersion: 2
         x: 192
@@ -342,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c72ac6e6765dd0a4aa66349f2b3eca23
-      internalID: -40694413
+      spriteID: 351e957a3e9e2c042914b511d0e8eb17
+      internalID: -1270261549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_12
+      name: hair_2_12
       rect:
         serializedVersion: 2
         x: 256
@@ -363,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38330ca34ba65e5429a379e7c020676f
-      internalID: 440818605
+      spriteID: 714dfb880f78b3f4b8f93873aa544a5a
+      internalID: -1452119506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_13
+      name: hair_2_13
       rect:
         serializedVersion: 2
         x: 320
@@ -384,14 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93d9a8499c6ffcc419d102e63a0e7156
-      internalID: 1396252010
+      spriteID: ff8d6170dd437134e86a862d0aa3c646
+      internalID: -2051746600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_14
+      name: hair_2_14
       rect:
         serializedVersion: 2
         x: 384
@@ -405,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8dca795217645f4d8de7baaaa5afb2f
-      internalID: 1404425135
+      spriteID: e26f204b73670964cb95aa4e512fcff6
+      internalID: -517416440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_15
+      name: hair_2_15
       rect:
         serializedVersion: 2
         x: 448
@@ -426,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 548486917ddde8048819c7bdde2486ff
-      internalID: -260122701
+      spriteID: bc4d7931ecea3e14189c075cd33313a4
+      internalID: -125093471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_16
+      name: hair_2_16
       rect:
         serializedVersion: 2
         x: 0
@@ -447,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05db0977b92f531499c96d10fd532eba
-      internalID: -1406014015
+      spriteID: 6b8a74fc187953d45ab0d37bf825bb11
+      internalID: 1958625297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_17
+      name: hair_2_17
       rect:
         serializedVersion: 2
         x: 64
@@ -468,14 +468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a8d54cefe649e646806883672c7b248
-      internalID: 1230018577
+      spriteID: 90e65e835222fe54bbcb08a9f862357f
+      internalID: -1792983264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_18
+      name: hair_2_18
       rect:
         serializedVersion: 2
         x: 128
@@ -489,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a47894996a04b8d439ccb571ff20dc84
-      internalID: 1684781988
+      spriteID: 153eac4688528b24f99e2f5a687a8fe8
+      internalID: 1910787632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_19
+      name: hair_2_19
       rect:
         serializedVersion: 2
         x: 192
@@ -510,14 +510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1af435e2d002ffa49b3e9e044330dc48
-      internalID: 1753287537
+      spriteID: a6a028f41c2799d4e824e44e5f58c6c1
+      internalID: 1017843392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_20
+      name: hair_2_20
       rect:
         serializedVersion: 2
         x: 256
@@ -531,14 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7008b11ec6475af47b9f522c789805cd
-      internalID: -771239477
+      spriteID: 196be8f42d38d9446930f03c2bb09dcd
+      internalID: -755217693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_21
+      name: hair_2_21
       rect:
         serializedVersion: 2
         x: 320
@@ -552,14 +552,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb2e385dce43f4f458b47e9a7bc511fd
-      internalID: -2145760746
+      spriteID: 224226dd6ea8fa94a937cad8f92ec1ae
+      internalID: -903049183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_22
+      name: hair_2_22
       rect:
         serializedVersion: 2
         x: 384
@@ -573,14 +573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68317ae81e9e2424b89dc8b7d71a8d05
-      internalID: -382481867
+      spriteID: ac7802e654f2fca4b9b87974f724e7f5
+      internalID: 972799807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_23
+      name: hair_2_23
       rect:
         serializedVersion: 2
         x: 448
@@ -594,14 +594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 852fb76555740a245b6ad9778c97c2fb
-      internalID: 528517508
+      spriteID: 12188d189ebcf90468a576551047c086
+      internalID: 540160203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_24
+      name: hair_2_24
       rect:
         serializedVersion: 2
         x: 0
@@ -615,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ccee4cdaba2647468cd5a5a12788989
-      internalID: -1603164133
+      spriteID: 250ef7291fc4a38459ba9ba05762f439
+      internalID: 776198903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_25
+      name: hair_2_25
       rect:
         serializedVersion: 2
         x: 64
@@ -636,14 +636,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 165b2f4099ee5fc469636a5e3f04b523
-      internalID: -207872839
+      spriteID: 53be6ec56851a354585a15c9cee10485
+      internalID: 1934996506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_26
+      name: hair_2_26
       rect:
         serializedVersion: 2
         x: 128
@@ -657,14 +657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ded88853d5b144c4cb171fbc56420106
-      internalID: -171318147
+      spriteID: 532b3559baeded343ac9331e325c1de8
+      internalID: -88705506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_27
+      name: hair_2_27
       rect:
         serializedVersion: 2
         x: 192
@@ -678,14 +678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf3639227b5d4954eb50a5027fd0a28c
-      internalID: 1865065129
+      spriteID: 5bcfbee615e33ea45bb371cd96e3ce28
+      internalID: -105802184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_28
+      name: hair_2_28
       rect:
         serializedVersion: 2
         x: 256
@@ -699,14 +699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4557dad2eb8b9194e918829b999154ed
-      internalID: -2055347547
+      spriteID: 0682f08af7e2e3e45994ccfa0c1cbe52
+      internalID: 131006350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_29
+      name: hair_2_29
       rect:
         serializedVersion: 2
         x: 320
@@ -720,14 +720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 542442454a46a404d9ac83a57d89f53e
-      internalID: -1604880741
+      spriteID: 417ca60ae22e50d44bf7efb7e8c763d4
+      internalID: -646542832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_30
+      name: hair_2_30
       rect:
         serializedVersion: 2
         x: 384
@@ -741,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb4e94be155d0d8468e799152b0f6999
-      internalID: 2130795262
+      spriteID: 3063b88f4698bd743b3c941bd27b4763
+      internalID: 879385065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_31
+      name: hair_2_31
       rect:
         serializedVersion: 2
         x: 448
@@ -762,14 +762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a787baff82e89648a2326c0f069ec33
-      internalID: -572896566
+      spriteID: dc05c36e5992ddf43a75ba5f30469d94
+      internalID: 308936096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_32
+      name: hair_2_32
       rect:
         serializedVersion: 2
         x: 0
@@ -783,14 +783,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d5a503d833acad4ab21e179812c6fbb
-      internalID: -1587955745
+      spriteID: 1058a7fd072f16844a492586a07c3380
+      internalID: 587940691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_33
+      name: hair_2_33
       rect:
         serializedVersion: 2
         x: 64
@@ -804,14 +804,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b350592b50c19da47bf1017cef3287f5
-      internalID: -1175180353
+      spriteID: 2e1beb9e99addcd44bfd86420a95ef81
+      internalID: 2021312055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_34
+      name: hair_2_34
       rect:
         serializedVersion: 2
         x: 128
@@ -825,14 +825,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49796555805ed39468729ab2e8b9adc7
-      internalID: 1979706460
+      spriteID: 3d31d4f53bc5a8b459d16cf4427f7ff7
+      internalID: -42687223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_35
+      name: hair_2_35
       rect:
         serializedVersion: 2
         x: 192
@@ -846,14 +846,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b83dcd5a62e15dd43b0fbd21940685af
-      internalID: 1751944999
+      spriteID: 2763b01f67b70244fbc147cd7ffada0e
+      internalID: 536705248
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_36
+      name: hair_2_36
       rect:
         serializedVersion: 2
         x: 256
@@ -867,14 +867,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b95a8a1883c3684cba2774de5950237
-      internalID: -1951982396
+      spriteID: e90025218e1120a4d8bb1f17d2928684
+      internalID: -1299071118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_37
+      name: hair_2_37
       rect:
         serializedVersion: 2
         x: 320
@@ -888,14 +888,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2410e74804acd3c4487dce29f37a9ed3
-      internalID: -63735071
+      spriteID: 8a0896b66dd697845bc6d34d9000375c
+      internalID: -1814907810
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_38
+      name: hair_2_38
       rect:
         serializedVersion: 2
         x: 384
@@ -909,14 +909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22546983fc2ea27498f7dd0af4358e2a
-      internalID: -204177193
+      spriteID: 3a4c6f5d53bcbe14c9327d97d8273bf4
+      internalID: -2130776493
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_39
+      name: hair_2_39
       rect:
         serializedVersion: 2
         x: 448
@@ -930,14 +930,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e9cc696726d07c42936d5d311748368
-      internalID: -909905428
+      spriteID: 4ee989d6f5bc9474980c9bb85258efee
+      internalID: -751194197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_40
+      name: hair_2_40
       rect:
         serializedVersion: 2
         x: 0
@@ -951,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e81ef553e9811d4c986ff838690d81e
-      internalID: 1496170111
+      spriteID: cb17b23c475dc1b40988a2aeb74ef906
+      internalID: -1353575149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_41
+      name: hair_2_41
       rect:
         serializedVersion: 2
         x: 64
@@ -972,14 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc40cc3aa6425b141b6f8365621f973d
-      internalID: 523608370
+      spriteID: 7e1e8065bd147b843acccea488ccd020
+      internalID: -1524731921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_42
+      name: hair_2_42
       rect:
         serializedVersion: 2
         x: 128
@@ -993,14 +993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09f89cacd0154344da07c2db7152d110
-      internalID: -1300122221
+      spriteID: 10d1c4815c7399a448444a13ed5216ec
+      internalID: -1925212702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_43
+      name: hair_2_43
       rect:
         serializedVersion: 2
         x: 192
@@ -1014,14 +1014,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 744cde3457775384784ce59ec6ec4858
-      internalID: -644463823
+      spriteID: be5a65ed344e505498552a62c8e0a0df
+      internalID: 672119357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_44
+      name: hair_2_44
       rect:
         serializedVersion: 2
         x: 256
@@ -1035,14 +1035,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7009a08f897aa54798973bd4ac67044
-      internalID: -1881910369
+      spriteID: 2d65f09b2f72dca49a948efdb93e7f7e
+      internalID: -604219770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_45
+      name: hair_2_45
       rect:
         serializedVersion: 2
         x: 320
@@ -1056,14 +1056,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e382c523ed708f547863071b20945b34
-      internalID: -1198061551
+      spriteID: dec177c66f456bc44b1447faaabbf9d1
+      internalID: -2504783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_46
+      name: hair_2_46
       rect:
         serializedVersion: 2
         x: 384
@@ -1077,14 +1077,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd365fbae5a0f7b4caeb729a1fd3bfaf
-      internalID: -886039504
+      spriteID: 94581b9676d33e146acdb41217ed6ea0
+      internalID: -816316051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_47
+      name: hair_2_47
       rect:
         serializedVersion: 2
         x: 448
@@ -1098,14 +1098,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa24dd1135322d5468d22e32173f16a8
-      internalID: -1259972337
+      spriteID: f799d517694a83346ba34b1a80cce5af
+      internalID: 869677731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_48
+      name: hair_2_48
       rect:
         serializedVersion: 2
         x: 0
@@ -1119,14 +1119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34391f7397224f344aa9e8d656a2a496
-      internalID: -360009633
+      spriteID: 1db022134efd402449b3c6928300108e
+      internalID: 1318581061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_49
+      name: hair_2_49
       rect:
         serializedVersion: 2
         x: 64
@@ -1140,14 +1140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 645921f135bc4f345b196b98d05013ac
-      internalID: 645453457
+      spriteID: bc1d17fe77c5062439fc5421835ef127
+      internalID: 1007265015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_50
+      name: hair_2_50
       rect:
         serializedVersion: 2
         x: 128
@@ -1161,14 +1161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd663d46f8f009846a9e398149d93e09
-      internalID: -1034498311
+      spriteID: a8fb187dc3780f7409d07bf182195554
+      internalID: -411047914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_51
+      name: hair_2_51
       rect:
         serializedVersion: 2
         x: 192
@@ -1182,14 +1182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 489bde39ef6debc4ba545e97e83e443d
-      internalID: -964425381
+      spriteID: 79e14b116d8aee842ba9aa4c67cb4ce0
+      internalID: -1571552743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_52
+      name: hair_2_52
       rect:
         serializedVersion: 2
         x: 256
@@ -1203,14 +1203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1232f822a70bf814c947895c051ab74b
-      internalID: 1945953755
+      spriteID: 4726562ae29a0b847b789f00b814ab90
+      internalID: -2095637382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_53
+      name: hair_2_53
       rect:
         serializedVersion: 2
         x: 320
@@ -1224,14 +1224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed192372d183215419496cfdb9f3f90a
-      internalID: -2090948179
+      spriteID: aef2650f2cdbe5e429adf9c8b2c3b0c9
+      internalID: 991981729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_54
+      name: hair_2_54
       rect:
         serializedVersion: 2
         x: 384
@@ -1245,14 +1245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41efc9a42b0f95747860c39643408665
-      internalID: -1314307119
+      spriteID: fb00a8de882bcd04480a8c0f88eb434a
+      internalID: 758631223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_55
+      name: hair_2_55
       rect:
         serializedVersion: 2
         x: 448
@@ -1266,14 +1266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f29d48687e8825a408e6a82ac291f50a
-      internalID: 366343432
+      spriteID: 5c1f5e14a49440043933bf1ece9b7563
+      internalID: -161585856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_56
+      name: hair_2_56
       rect:
         serializedVersion: 2
         x: 0
@@ -1287,14 +1287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3410233d358b6f14ca798ce2ea6043a3
-      internalID: -524099514
+      spriteID: 7f3682e02da66464cbc905493dd692cf
+      internalID: -286784074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_57
+      name: hair_2_57
       rect:
         serializedVersion: 2
         x: 64
@@ -1308,14 +1308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64a691a1c31f5774390dcf96b38af95c
-      internalID: -533647234
+      spriteID: 8afd40d88930a764fae8114cedf75934
+      internalID: -49442515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_58
+      name: hair_2_58
       rect:
         serializedVersion: 2
         x: 128
@@ -1329,14 +1329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 855cb215b7755f34e824c28ae0dd39f2
-      internalID: 975960731
+      spriteID: 272fbf5752e8f2347af33ceed64cda3d
+      internalID: 531242841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_59
+      name: hair_2_59
       rect:
         serializedVersion: 2
         x: 192
@@ -1350,14 +1350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf8a71a1f1c79504eb79c2037d128c35
-      internalID: -135887966
+      spriteID: e9d610573db24c04591317bfd90cc147
+      internalID: 847253865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_60
+      name: hair_2_60
       rect:
         serializedVersion: 2
         x: 256
@@ -1371,14 +1371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f98c7b8ab5ac2f643bfa9d300724f0e1
-      internalID: -173309137
+      spriteID: ce79adeb0e5548041adbeb65f4b46871
+      internalID: -54126170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_61
+      name: hair_2_61
       rect:
         serializedVersion: 2
         x: 320
@@ -1392,14 +1392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bea0bbde0ae857a4f8bb3926e8e964d3
-      internalID: -1958201966
+      spriteID: e018f676fb5f43c48beb21ea3fb4e9cd
+      internalID: 2116275866
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_62
+      name: hair_2_62
       rect:
         serializedVersion: 2
         x: 384
@@ -1413,14 +1413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7efaed542ce842f4d9c2f1e9bc6e2d42
-      internalID: 1288928403
+      spriteID: 8b13c6a569cbd5041a4b55411c5ecd1f
+      internalID: 730068906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_63
+      name: hair_2_63
       rect:
         serializedVersion: 2
         x: 448
@@ -1434,8 +1434,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4511d12c1864f124ba41380c27deffce
-      internalID: 1047713360
+      spriteID: 67b95dd87223aa542a257e6c80aff888
+      internalID: 786987891
       vertices: []
       indices: 
       edges: []
@@ -1451,70 +1451,70 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      blue_clothes_0: -1207911251
-      blue_clothes_1: -708931087
-      blue_clothes_10: 1977589503
-      blue_clothes_11: -40694413
-      blue_clothes_12: 440818605
-      blue_clothes_13: 1396252010
-      blue_clothes_14: 1404425135
-      blue_clothes_15: -260122701
-      blue_clothes_16: -1406014015
-      blue_clothes_17: 1230018577
-      blue_clothes_18: 1684781988
-      blue_clothes_19: 1753287537
-      blue_clothes_2: -1730406902
-      blue_clothes_20: -771239477
-      blue_clothes_21: -2145760746
-      blue_clothes_22: -382481867
-      blue_clothes_23: 528517508
-      blue_clothes_24: -1603164133
-      blue_clothes_25: -207872839
-      blue_clothes_26: -171318147
-      blue_clothes_27: 1865065129
-      blue_clothes_28: -2055347547
-      blue_clothes_29: -1604880741
-      blue_clothes_3: -907326900
-      blue_clothes_30: 2130795262
-      blue_clothes_31: -572896566
-      blue_clothes_32: -1587955745
-      blue_clothes_33: -1175180353
-      blue_clothes_34: 1979706460
-      blue_clothes_35: 1751944999
-      blue_clothes_36: -1951982396
-      blue_clothes_37: -63735071
-      blue_clothes_38: -204177193
-      blue_clothes_39: -909905428
-      blue_clothes_4: -739434694
-      blue_clothes_40: 1496170111
-      blue_clothes_41: 523608370
-      blue_clothes_42: -1300122221
-      blue_clothes_43: -644463823
-      blue_clothes_44: -1881910369
-      blue_clothes_45: -1198061551
-      blue_clothes_46: -886039504
-      blue_clothes_47: -1259972337
-      blue_clothes_48: -360009633
-      blue_clothes_49: 645453457
-      blue_clothes_5: 1216561651
-      blue_clothes_50: -1034498311
-      blue_clothes_51: -964425381
-      blue_clothes_52: 1945953755
-      blue_clothes_53: -2090948179
-      blue_clothes_54: -1314307119
-      blue_clothes_55: 366343432
-      blue_clothes_56: -524099514
-      blue_clothes_57: -533647234
-      blue_clothes_58: 975960731
-      blue_clothes_59: -135887966
-      blue_clothes_6: -57612865
-      blue_clothes_60: -173309137
-      blue_clothes_61: -1958201966
-      blue_clothes_62: 1288928403
-      blue_clothes_63: 1047713360
-      blue_clothes_7: 423376180
-      blue_clothes_8: -1338933747
-      blue_clothes_9: 1622424691
+      hair_2_0: 1343600318
+      hair_2_1: 1547437369
+      hair_2_10: -1517495526
+      hair_2_11: -1270261549
+      hair_2_12: -1452119506
+      hair_2_13: -2051746600
+      hair_2_14: -517416440
+      hair_2_15: -125093471
+      hair_2_16: 1958625297
+      hair_2_17: -1792983264
+      hair_2_18: 1910787632
+      hair_2_19: 1017843392
+      hair_2_2: 1058833478
+      hair_2_20: -755217693
+      hair_2_21: -903049183
+      hair_2_22: 972799807
+      hair_2_23: 540160203
+      hair_2_24: 776198903
+      hair_2_25: 1934996506
+      hair_2_26: -88705506
+      hair_2_27: -105802184
+      hair_2_28: 131006350
+      hair_2_29: -646542832
+      hair_2_3: -460537085
+      hair_2_30: 879385065
+      hair_2_31: 308936096
+      hair_2_32: 587940691
+      hair_2_33: 2021312055
+      hair_2_34: -42687223
+      hair_2_35: 536705248
+      hair_2_36: -1299071118
+      hair_2_37: -1814907810
+      hair_2_38: -2130776493
+      hair_2_39: -751194197
+      hair_2_4: 194283681
+      hair_2_40: -1353575149
+      hair_2_41: -1524731921
+      hair_2_42: -1925212702
+      hair_2_43: 672119357
+      hair_2_44: -604219770
+      hair_2_45: -2504783
+      hair_2_46: -816316051
+      hair_2_47: 869677731
+      hair_2_48: 1318581061
+      hair_2_49: 1007265015
+      hair_2_5: -1947509608
+      hair_2_50: -411047914
+      hair_2_51: -1571552743
+      hair_2_52: -2095637382
+      hair_2_53: 991981729
+      hair_2_54: 758631223
+      hair_2_55: -161585856
+      hair_2_56: -286784074
+      hair_2_57: -49442515
+      hair_2_58: 531242841
+      hair_2_59: 847253865
+      hair_2_6: -1157677488
+      hair_2_60: -54126170
+      hair_2_61: 2116275866
+      hair_2_62: 730068906
+      hair_2_63: 786987891
+      hair_2_7: 850400026
+      hair_2_8: -1702254467
+      hair_2_9: 1224013851
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

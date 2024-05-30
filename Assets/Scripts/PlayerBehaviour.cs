@@ -10,6 +10,10 @@ public class PlayerBehaviour : MonoBehaviour
     Rigidbody2D _rb;
     Animator _animator;
 
+    [SerializeField] private Animator _hairAnimator;
+    [SerializeField] private Animator _clothesAnimator;
+    [SerializeField] private Animator _undiesAnimator;
+
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
@@ -45,6 +49,15 @@ public class PlayerBehaviour : MonoBehaviour
     {
         _animator.SetFloat("horizontal", inputVector.x);
         _animator.SetFloat("vertical", inputVector.y);
+
+        _hairAnimator.SetFloat("horizontal", inputVector.x);
+        _hairAnimator.SetFloat("vertical", inputVector.y);
+        
+        _clothesAnimator.SetFloat("horizontal", inputVector.x);
+        _clothesAnimator.SetFloat("vertical", inputVector.y);
+        
+        _undiesAnimator.SetFloat("horizontal", inputVector.x);
+        _undiesAnimator.SetFloat("vertical", inputVector.y);
     }
 
     private void OnTriggerEnter2D(Collider2D trig) 

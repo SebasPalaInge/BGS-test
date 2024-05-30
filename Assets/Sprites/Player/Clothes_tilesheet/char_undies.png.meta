@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: aa98406e126baf4479e77877d9837be8
+guid: 1e9882623ef539e418e964424453f8ae
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blue_clothes_0
+      name: char_undies_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,77 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2557bd1bcc670354e8c3790fd0b5fdbe
-      internalID: -1207911251
+      spriteID: c9a1fff742c4d3844ab314e948ff6fe6
+      internalID: 216911000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_1
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7e7caa77c8f7724ba9d09e62bfc847f
-      internalID: -708931087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blue_clothes_2
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d0090cef08e32b54fb0e2cc58a90a31a
-      internalID: -1730406902
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blue_clothes_3
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3291b814113b1cb439b8d0ac5a1ecedc
-      internalID: -907326900
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blue_clothes_4
+      name: char_undies_1
       rect:
         serializedVersion: 2
         x: 256
@@ -195,35 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f366e4802f5a744419233f1669dab4ed
-      internalID: -739434694
+      spriteID: b288c4957c66e6b4a8a22390cc77031c
+      internalID: 561340438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_5
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3280ca70fd41eb45b194ddc096aa48e
-      internalID: 1216561651
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blue_clothes_6
+      name: char_undies_2
       rect:
         serializedVersion: 2
         x: 384
@@ -237,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f364b1352bb5414bb4932926363f4b3
-      internalID: -57612865
+      spriteID: fcee446ed98f2894da6c626c7c88c3ec
+      internalID: -1188263960
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_7
+      name: char_undies_3
       rect:
         serializedVersion: 2
         x: 448
@@ -258,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bced86ae74f4fd3488f533a74d3a66e5
-      internalID: 423376180
+      spriteID: 43a15e9a8a9114446b97aeeb9ac78860
+      internalID: -1777732213
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_8
+      name: char_undies_4
       rect:
         serializedVersion: 2
         x: 0
@@ -279,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c867f7d9efae4b419e6a72612d3bcf7
-      internalID: -1338933747
+      spriteID: 2227a5d8731d9404b971d34000169ddf
+      internalID: -1770942838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_9
+      name: char_undies_5
       rect:
         serializedVersion: 2
         x: 64
@@ -300,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1e1be4b50c79844b879d4db2628d94d
-      internalID: 1622424691
+      spriteID: 3c5337dc938090b428c6568c8f695639
+      internalID: -793923700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_10
+      name: char_undies_6
       rect:
         serializedVersion: 2
         x: 128
@@ -321,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 436ebd587e496f14fb3e728978434927
-      internalID: 1977589503
+      spriteID: 2e543dc039125a842ba4806a738ea311
+      internalID: -1390719220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_11
+      name: char_undies_7
       rect:
         serializedVersion: 2
         x: 192
@@ -342,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c72ac6e6765dd0a4aa66349f2b3eca23
-      internalID: -40694413
+      spriteID: 99231ce613ee47d44988c00e4958c6d8
+      internalID: -1728653276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_12
+      name: char_undies_8
       rect:
         serializedVersion: 2
         x: 256
@@ -363,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38330ca34ba65e5429a379e7c020676f
-      internalID: 440818605
+      spriteID: 714b245749afdb94ea41874cc185bf35
+      internalID: -1691051291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_13
+      name: char_undies_9
       rect:
         serializedVersion: 2
         x: 320
@@ -384,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93d9a8499c6ffcc419d102e63a0e7156
-      internalID: 1396252010
+      spriteID: 643180c24d8fce941ba5d85690f5f544
+      internalID: 927725902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_14
+      name: char_undies_10
       rect:
         serializedVersion: 2
         x: 384
@@ -405,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8dca795217645f4d8de7baaaa5afb2f
-      internalID: 1404425135
+      spriteID: 693704c7f111d784ba68043686783079
+      internalID: -770621946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_15
+      name: char_undies_11
       rect:
         serializedVersion: 2
         x: 448
@@ -426,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 548486917ddde8048819c7bdde2486ff
-      internalID: -260122701
+      spriteID: ab9b2bb8024f66e4081723ca12fb571a
+      internalID: 657313667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_16
+      name: char_undies_12
       rect:
         serializedVersion: 2
         x: 0
@@ -447,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05db0977b92f531499c96d10fd532eba
-      internalID: -1406014015
+      spriteID: cc01b6e3a7779ce4aa17f3a79ad4b470
+      internalID: 216734941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_17
+      name: char_undies_13
       rect:
         serializedVersion: 2
         x: 64
@@ -468,14 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a8d54cefe649e646806883672c7b248
-      internalID: 1230018577
+      spriteID: 2d3a8e6a142f50440b6af3dc5be08700
+      internalID: -2095271066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_18
+      name: char_undies_14
       rect:
         serializedVersion: 2
         x: 128
@@ -489,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a47894996a04b8d439ccb571ff20dc84
-      internalID: 1684781988
+      spriteID: 4a4bbfc90e1f4f545be40e8792339f42
+      internalID: 1264243700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_19
+      name: char_undies_15
       rect:
         serializedVersion: 2
         x: 192
@@ -510,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1af435e2d002ffa49b3e9e044330dc48
-      internalID: 1753287537
+      spriteID: 6840af4fee992c64ab45094d84bc0b25
+      internalID: -367142886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_20
+      name: char_undies_16
       rect:
         serializedVersion: 2
         x: 256
@@ -531,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7008b11ec6475af47b9f522c789805cd
-      internalID: -771239477
+      spriteID: 1a0b0e98d215cb643ac4c79d889964e3
+      internalID: 1752758735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_21
+      name: char_undies_17
       rect:
         serializedVersion: 2
         x: 320
@@ -552,14 +468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb2e385dce43f4f458b47e9a7bc511fd
-      internalID: -2145760746
+      spriteID: 17056935dd6616b4ab34958c30cc95c2
+      internalID: -2123705071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_22
+      name: char_undies_18
       rect:
         serializedVersion: 2
         x: 384
@@ -573,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68317ae81e9e2424b89dc8b7d71a8d05
-      internalID: -382481867
+      spriteID: cb0a9b118e1bfe443adfa04bf63a2cba
+      internalID: 189722788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_23
+      name: char_undies_19
       rect:
         serializedVersion: 2
         x: 448
@@ -594,14 +510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 852fb76555740a245b6ad9778c97c2fb
-      internalID: 528517508
+      spriteID: 4c71b6b43ea243f44b442b3272336b2b
+      internalID: 518711348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_24
+      name: char_undies_20
       rect:
         serializedVersion: 2
         x: 0
@@ -615,14 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ccee4cdaba2647468cd5a5a12788989
-      internalID: -1603164133
+      spriteID: 7c0a1e9b17eea684b82891df905621ca
+      internalID: 1232342492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_25
+      name: char_undies_21
       rect:
         serializedVersion: 2
         x: 64
@@ -636,14 +552,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 165b2f4099ee5fc469636a5e3f04b523
-      internalID: -207872839
+      spriteID: 3b94efbe291c18d4ea41f02c55dd5d7d
+      internalID: -1688953994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_26
+      name: char_undies_22
       rect:
         serializedVersion: 2
         x: 128
@@ -657,14 +573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ded88853d5b144c4cb171fbc56420106
-      internalID: -171318147
+      spriteID: 9073ab2764890624f866e928f384003a
+      internalID: 2048193543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_27
+      name: char_undies_23
       rect:
         serializedVersion: 2
         x: 192
@@ -678,14 +594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf3639227b5d4954eb50a5027fd0a28c
-      internalID: 1865065129
+      spriteID: fed22f9dd5b1dd84a8147f21624c4759
+      internalID: -62051494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_28
+      name: char_undies_24
       rect:
         serializedVersion: 2
         x: 256
@@ -699,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4557dad2eb8b9194e918829b999154ed
-      internalID: -2055347547
+      spriteID: 95944522e6c260c43a971d660cda2a67
+      internalID: 1604795164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_29
+      name: char_undies_25
       rect:
         serializedVersion: 2
         x: 320
@@ -720,14 +636,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 542442454a46a404d9ac83a57d89f53e
-      internalID: -1604880741
+      spriteID: f06e45b217e33f947925b083578e5547
+      internalID: -168912244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_30
+      name: char_undies_26
       rect:
         serializedVersion: 2
         x: 384
@@ -741,14 +657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb4e94be155d0d8468e799152b0f6999
-      internalID: 2130795262
+      spriteID: bfd188f602e7bc448829fb0cecef18af
+      internalID: -791948143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_31
+      name: char_undies_27
       rect:
         serializedVersion: 2
         x: 448
@@ -762,14 +678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a787baff82e89648a2326c0f069ec33
-      internalID: -572896566
+      spriteID: 247aeb67769bca0428bcdb662efa9f33
+      internalID: 1522863421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_32
+      name: char_undies_28
       rect:
         serializedVersion: 2
         x: 0
@@ -783,14 +699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d5a503d833acad4ab21e179812c6fbb
-      internalID: -1587955745
+      spriteID: 510c94f38462f4c419b9a8fec615bbba
+      internalID: -1783893656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_33
+      name: char_undies_29
       rect:
         serializedVersion: 2
         x: 64
@@ -804,14 +720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b350592b50c19da47bf1017cef3287f5
-      internalID: -1175180353
+      spriteID: f71f5050f64cf1f40be199c5cd9f0a77
+      internalID: -990874768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_34
+      name: char_undies_30
       rect:
         serializedVersion: 2
         x: 128
@@ -825,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49796555805ed39468729ab2e8b9adc7
-      internalID: 1979706460
+      spriteID: 1def4db9446338a499444953523ca2d6
+      internalID: 1906391241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_35
+      name: char_undies_31
       rect:
         serializedVersion: 2
         x: 192
@@ -846,14 +762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b83dcd5a62e15dd43b0fbd21940685af
-      internalID: 1751944999
+      spriteID: e3affce0b7fba2546a05a32c57c0cbfa
+      internalID: -280729626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_36
+      name: char_undies_32
       rect:
         serializedVersion: 2
         x: 256
@@ -867,14 +783,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b95a8a1883c3684cba2774de5950237
-      internalID: -1951982396
+      spriteID: 5fc401f79538e2644b6f2ea6872a0fab
+      internalID: -1713626764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_37
+      name: char_undies_33
       rect:
         serializedVersion: 2
         x: 320
@@ -888,14 +804,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2410e74804acd3c4487dce29f37a9ed3
-      internalID: -63735071
+      spriteID: af86d50d4d5732d4a86d4711045a081f
+      internalID: 1798491412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_38
+      name: char_undies_34
       rect:
         serializedVersion: 2
         x: 384
@@ -909,14 +825,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22546983fc2ea27498f7dd0af4358e2a
-      internalID: -204177193
+      spriteID: 694505653c56622478a012ce0db52709
+      internalID: 245068406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_39
+      name: char_undies_35
       rect:
         serializedVersion: 2
         x: 448
@@ -930,14 +846,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e9cc696726d07c42936d5d311748368
-      internalID: -909905428
+      spriteID: 767fca2d7e55d314cace5689adead27f
+      internalID: 630138842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_40
+      name: char_undies_36
       rect:
         serializedVersion: 2
         x: 0
@@ -951,14 +867,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e81ef553e9811d4c986ff838690d81e
-      internalID: 1496170111
+      spriteID: e485b20f35a0f5c4889921f9c85da415
+      internalID: -875659431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_41
+      name: char_undies_37
       rect:
         serializedVersion: 2
         x: 64
@@ -972,14 +888,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc40cc3aa6425b141b6f8365621f973d
-      internalID: 523608370
+      spriteID: b3ed8a61d72b35c4e9e18259c6e5bef2
+      internalID: 342671064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_42
+      name: char_undies_38
       rect:
         serializedVersion: 2
         x: 128
@@ -993,14 +909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09f89cacd0154344da07c2db7152d110
-      internalID: -1300122221
+      spriteID: 1dcb948f309c3804daf65308eba5cb74
+      internalID: -559451119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_43
+      name: char_undies_39
       rect:
         serializedVersion: 2
         x: 192
@@ -1014,14 +930,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 744cde3457775384784ce59ec6ec4858
-      internalID: -644463823
+      spriteID: 86f14714092e9484095f95a252b8b143
+      internalID: -1138545299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_44
+      name: char_undies_40
       rect:
         serializedVersion: 2
         x: 256
@@ -1035,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7009a08f897aa54798973bd4ac67044
-      internalID: -1881910369
+      spriteID: 421b6f883f557584e87e57fd4fce4d91
+      internalID: 104668421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_45
+      name: char_undies_41
       rect:
         serializedVersion: 2
         x: 320
@@ -1056,14 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e382c523ed708f547863071b20945b34
-      internalID: -1198061551
+      spriteID: d94c85a84c2c0294789b425592bcd441
+      internalID: -1241685201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_46
+      name: char_undies_42
       rect:
         serializedVersion: 2
         x: 384
@@ -1077,14 +993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd365fbae5a0f7b4caeb729a1fd3bfaf
-      internalID: -886039504
+      spriteID: 55b2e5448c3fe244890c0c3f266a029b
+      internalID: 174358875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_47
+      name: char_undies_43
       rect:
         serializedVersion: 2
         x: 448
@@ -1098,14 +1014,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa24dd1135322d5468d22e32173f16a8
-      internalID: -1259972337
+      spriteID: f3828f1d91c55b040a3b3b5cf5ed64f6
+      internalID: -1578480571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_48
+      name: char_undies_44
       rect:
         serializedVersion: 2
         x: 0
@@ -1119,14 +1035,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34391f7397224f344aa9e8d656a2a496
-      internalID: -360009633
+      spriteID: 467eff768149f4f4781d78e81b986c94
+      internalID: -695547026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_49
+      name: char_undies_45
       rect:
         serializedVersion: 2
         x: 64
@@ -1140,14 +1056,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 645921f135bc4f345b196b98d05013ac
-      internalID: 645453457
+      spriteID: f62300211be6e0c4d98defe2de46c58f
+      internalID: 826965478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_50
+      name: char_undies_46
       rect:
         serializedVersion: 2
         x: 128
@@ -1161,14 +1077,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd663d46f8f009846a9e398149d93e09
-      internalID: -1034498311
+      spriteID: 7d256824be59cba48a436fd0a2748269
+      internalID: -214997726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_51
+      name: char_undies_47
       rect:
         serializedVersion: 2
         x: 192
@@ -1182,14 +1098,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 489bde39ef6debc4ba545e97e83e443d
-      internalID: -964425381
+      spriteID: 13da53ee06218cd4e9006364e9c1f60e
+      internalID: 2119741349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_52
+      name: char_undies_48
       rect:
         serializedVersion: 2
         x: 256
@@ -1203,14 +1119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1232f822a70bf814c947895c051ab74b
-      internalID: 1945953755
+      spriteID: 9811ddae93864bd4a87954a6c3cfc9a3
+      internalID: -53480862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_53
+      name: char_undies_49
       rect:
         serializedVersion: 2
         x: 320
@@ -1224,14 +1140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed192372d183215419496cfdb9f3f90a
-      internalID: -2090948179
+      spriteID: 4edc897d01205474abb5e875d4a4f481
+      internalID: 165917435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_54
+      name: char_undies_50
       rect:
         serializedVersion: 2
         x: 384
@@ -1245,14 +1161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41efc9a42b0f95747860c39643408665
-      internalID: -1314307119
+      spriteID: 96df15a2128e520469ed78b85233fa6f
+      internalID: -316642961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_55
+      name: char_undies_51
       rect:
         serializedVersion: 2
         x: 448
@@ -1266,14 +1182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f29d48687e8825a408e6a82ac291f50a
-      internalID: 366343432
+      spriteID: 25cabebfcc8339049b6f87277f7f6356
+      internalID: -2013688996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_56
+      name: char_undies_52
       rect:
         serializedVersion: 2
         x: 0
@@ -1287,14 +1203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3410233d358b6f14ca798ce2ea6043a3
-      internalID: -524099514
+      spriteID: 3d45d672eac46f8449ec5190c70c3eeb
+      internalID: 1993609825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_57
+      name: char_undies_53
       rect:
         serializedVersion: 2
         x: 64
@@ -1308,14 +1224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64a691a1c31f5774390dcf96b38af95c
-      internalID: -533647234
+      spriteID: 732d118a954526545aa02b810d19217a
+      internalID: -667931821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_58
+      name: char_undies_54
       rect:
         serializedVersion: 2
         x: 128
@@ -1329,14 +1245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 855cb215b7755f34e824c28ae0dd39f2
-      internalID: 975960731
+      spriteID: 0d15d62f85995e34486867f7ec55ad6d
+      internalID: -216125070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_59
+      name: char_undies_55
       rect:
         serializedVersion: 2
         x: 192
@@ -1350,14 +1266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf8a71a1f1c79504eb79c2037d128c35
-      internalID: -135887966
+      spriteID: 125d050e39f85d84da88d826cba531ca
+      internalID: 160329907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_60
+      name: char_undies_56
       rect:
         serializedVersion: 2
         x: 256
@@ -1371,14 +1287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f98c7b8ab5ac2f643bfa9d300724f0e1
-      internalID: -173309137
+      spriteID: cb0374d151eb55f49a95d272634c5b5d
+      internalID: -1970154294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_61
+      name: char_undies_57
       rect:
         serializedVersion: 2
         x: 320
@@ -1392,14 +1308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bea0bbde0ae857a4f8bb3926e8e964d3
-      internalID: -1958201966
+      spriteID: 5b3ca6cf0ac2f254d932fd053f1b28e7
+      internalID: -1675640269
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_62
+      name: char_undies_58
       rect:
         serializedVersion: 2
         x: 384
@@ -1413,14 +1329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7efaed542ce842f4d9c2f1e9bc6e2d42
-      internalID: 1288928403
+      spriteID: 2235308041a3f4443a308f93ee9809bb
+      internalID: -803093601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue_clothes_63
+      name: char_undies_59
       rect:
         serializedVersion: 2
         x: 448
@@ -1434,8 +1350,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4511d12c1864f124ba41380c27deffce
-      internalID: 1047713360
+      spriteID: c57a62c9096b6ff468c8efee9aa8188b
+      internalID: -254261077
       vertices: []
       indices: 
       edges: []
@@ -1451,70 +1367,66 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      blue_clothes_0: -1207911251
-      blue_clothes_1: -708931087
-      blue_clothes_10: 1977589503
-      blue_clothes_11: -40694413
-      blue_clothes_12: 440818605
-      blue_clothes_13: 1396252010
-      blue_clothes_14: 1404425135
-      blue_clothes_15: -260122701
-      blue_clothes_16: -1406014015
-      blue_clothes_17: 1230018577
-      blue_clothes_18: 1684781988
-      blue_clothes_19: 1753287537
-      blue_clothes_2: -1730406902
-      blue_clothes_20: -771239477
-      blue_clothes_21: -2145760746
-      blue_clothes_22: -382481867
-      blue_clothes_23: 528517508
-      blue_clothes_24: -1603164133
-      blue_clothes_25: -207872839
-      blue_clothes_26: -171318147
-      blue_clothes_27: 1865065129
-      blue_clothes_28: -2055347547
-      blue_clothes_29: -1604880741
-      blue_clothes_3: -907326900
-      blue_clothes_30: 2130795262
-      blue_clothes_31: -572896566
-      blue_clothes_32: -1587955745
-      blue_clothes_33: -1175180353
-      blue_clothes_34: 1979706460
-      blue_clothes_35: 1751944999
-      blue_clothes_36: -1951982396
-      blue_clothes_37: -63735071
-      blue_clothes_38: -204177193
-      blue_clothes_39: -909905428
-      blue_clothes_4: -739434694
-      blue_clothes_40: 1496170111
-      blue_clothes_41: 523608370
-      blue_clothes_42: -1300122221
-      blue_clothes_43: -644463823
-      blue_clothes_44: -1881910369
-      blue_clothes_45: -1198061551
-      blue_clothes_46: -886039504
-      blue_clothes_47: -1259972337
-      blue_clothes_48: -360009633
-      blue_clothes_49: 645453457
-      blue_clothes_5: 1216561651
-      blue_clothes_50: -1034498311
-      blue_clothes_51: -964425381
-      blue_clothes_52: 1945953755
-      blue_clothes_53: -2090948179
-      blue_clothes_54: -1314307119
-      blue_clothes_55: 366343432
-      blue_clothes_56: -524099514
-      blue_clothes_57: -533647234
-      blue_clothes_58: 975960731
-      blue_clothes_59: -135887966
-      blue_clothes_6: -57612865
-      blue_clothes_60: -173309137
-      blue_clothes_61: -1958201966
-      blue_clothes_62: 1288928403
-      blue_clothes_63: 1047713360
-      blue_clothes_7: 423376180
-      blue_clothes_8: -1338933747
-      blue_clothes_9: 1622424691
+      char_undies_0: 216911000
+      char_undies_1: 561340438
+      char_undies_10: -770621946
+      char_undies_11: 657313667
+      char_undies_12: 216734941
+      char_undies_13: -2095271066
+      char_undies_14: 1264243700
+      char_undies_15: -367142886
+      char_undies_16: 1752758735
+      char_undies_17: -2123705071
+      char_undies_18: 189722788
+      char_undies_19: 518711348
+      char_undies_2: -1188263960
+      char_undies_20: 1232342492
+      char_undies_21: -1688953994
+      char_undies_22: 2048193543
+      char_undies_23: -62051494
+      char_undies_24: 1604795164
+      char_undies_25: -168912244
+      char_undies_26: -791948143
+      char_undies_27: 1522863421
+      char_undies_28: -1783893656
+      char_undies_29: -990874768
+      char_undies_3: -1777732213
+      char_undies_30: 1906391241
+      char_undies_31: -280729626
+      char_undies_32: -1713626764
+      char_undies_33: 1798491412
+      char_undies_34: 245068406
+      char_undies_35: 630138842
+      char_undies_36: -875659431
+      char_undies_37: 342671064
+      char_undies_38: -559451119
+      char_undies_39: -1138545299
+      char_undies_4: -1770942838
+      char_undies_40: 104668421
+      char_undies_41: -1241685201
+      char_undies_42: 174358875
+      char_undies_43: -1578480571
+      char_undies_44: -695547026
+      char_undies_45: 826965478
+      char_undies_46: -214997726
+      char_undies_47: 2119741349
+      char_undies_48: -53480862
+      char_undies_49: 165917435
+      char_undies_5: -793923700
+      char_undies_50: -316642961
+      char_undies_51: -2013688996
+      char_undies_52: 1993609825
+      char_undies_53: -667931821
+      char_undies_54: -216125070
+      char_undies_55: 160329907
+      char_undies_56: -1970154294
+      char_undies_57: -1675640269
+      char_undies_58: -803093601
+      char_undies_59: -254261077
+      char_undies_6: -1390719220
+      char_undies_7: -1728653276
+      char_undies_8: -1691051291
+      char_undies_9: 927725902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
