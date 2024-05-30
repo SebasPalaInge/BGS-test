@@ -113,4 +113,9 @@ public class PauseMenuBehaviour : MonoBehaviour
         sfxSlider.value = PlayerPrefs.GetFloat("sfxVolume");
         SetSFXVolume();
     }
+
+    public void FullscreenMode(bool isFullscreen)
+    {
+        Screen.fullScreen = isFullscreen;
+    }
 }
