@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PlayerBehaviour : MonoBehaviour
 {
+    public bool canMove = true;
     [SerializeField] private Vector2 inputVector;
     [SerializeField] private float playerSpeed;
     Rigidbody2D _rb;
@@ -34,6 +35,7 @@ public class PlayerBehaviour : MonoBehaviour
 
     private void HandleMovement()
     {
+        if(!canMove) return;
         _rb.velocity = inputVector.normalized * playerSpeed;
     }
 
