@@ -1,5 +1,7 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.Audio;
+using UnityEngine.UI;
 
 public class PauseMenuBehaviour : MonoBehaviour
 {
@@ -10,9 +12,31 @@ public class PauseMenuBehaviour : MonoBehaviour
     public GameObject creditsInterface;
     public PlayerBehaviour playerBehaviour;
 
+    public AudioMixer generalMixer;
+    public Slider musicSlider;
+    public Slider sfxSlider;
+
     private void Start() 
     {
         FullPanelState(false);
+
+        if(PlayerPrefs.HasKey("musicVolume"))
+        {
+            LoadMusicVolume();
+        }
+        else
+        {
+            SetMusicVolume();
+        }
+
+        if(PlayerPrefs.HasKey("sfxVolume"))
+        {
+            LoadSFXVolume();
+        }
+        else
+        {
+            SetSFXVolume();
+        }
     }
 
     public void ExitGameButton()
@@ -63,5 +87,30 @@ public class PauseMenuBehaviour : MonoBehaviour
         else
             title.text = "Paused";
     }
-    
+
+    public void SetMusicVolume()
+    {
+        float volume = musicSlider.value;
+        generalMixer.SetFloat("music", Mathf.Log10(volume) * 20);
+        PlayerPrefs.SetFloat("musicVolume", volume);
+    }
+
+    public void SetSFXVolume()
+    {
+        float volume = sfxSlider.value;
+        generalMixer.SetFloat("sfx", Mathf.Log10(volume) * 20);
+        PlayerPrefs.SetFloat("sfxVolume", volume);
+    }
+
+    public void LoadMusicVolume()
+    {
+        musicSlider.value = PlayerPrefs.GetFloat("musicVolume");
+        SetMusicVolume();
+    }
+
+    public void LoadSFXVolume()
+    {
+        sfxSlider.value = PlayerPrefs.GetFloat("sfxVolume");
+        SetSFXVolume();
+    }
 }
