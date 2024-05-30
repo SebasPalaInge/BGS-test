@@ -2,17 +2,19 @@ using UnityEngine;
 
 public class PlayerBehaviour : MonoBehaviour
 {
+    [Header("Variables")]
     public bool canMove = true;
     public bool isInteracting = false;
-
     [SerializeField] private Vector2 inputVector;
     [SerializeField] private float playerSpeed;
+
+    [Header("Components")]
+    public Animator _hairAnimator;
+    public Animator _clothesAnimator;
+    [SerializeField] private Animator _undiesAnimator;
+    
     Rigidbody2D _rb;
     Animator _animator;
-
-    [SerializeField] private Animator _hairAnimator;
-    [SerializeField] private Animator _clothesAnimator;
-    [SerializeField] private Animator _undiesAnimator;
 
     private void Start()
     {
@@ -22,12 +24,14 @@ public class PlayerBehaviour : MonoBehaviour
 
     private void Update() 
     {
+        if(!canMove) return;
         GetInput();
         SetAnimation();
     }
 
     private void FixedUpdate() 
     {
+        if(!canMove) return;
         HandleMovement();    
     }
 
@@ -41,7 +45,6 @@ public class PlayerBehaviour : MonoBehaviour
 
     private void HandleMovement()
     {
-        if(!canMove) return;
         _rb.velocity = inputVector.normalized * playerSpeed;
     }
 
