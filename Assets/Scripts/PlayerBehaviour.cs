@@ -24,7 +24,6 @@ public class PlayerBehaviour : MonoBehaviour
 
     private void Update() 
     {
-        if(!canMove) return;
         GetInput();
         SetAnimation();
     }
@@ -40,7 +39,12 @@ public class PlayerBehaviour : MonoBehaviour
         float horizontal = Input.GetAxisRaw("Horizontal");
         float vertical = Input.GetAxisRaw("Vertical");
 
-        inputVector = new Vector2(horizontal, vertical);
+
+        if(canMove)
+            inputVector = new Vector2(horizontal, vertical);
+        else
+            inputVector = new Vector2(0, 0);
+
     }
 
     private void HandleMovement()

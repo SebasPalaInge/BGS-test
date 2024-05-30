@@ -15,6 +15,7 @@ public class DialogBehaviour : MonoBehaviour
     public TextMeshProUGUI generalText;
 
     public AudioSource audioSrc;
+    public ShopInventory _shop;
 
     private void Start() 
     {
@@ -53,7 +54,8 @@ public class DialogBehaviour : MonoBehaviour
     {
         if(isShopkeeper)
         {
-            OpenShopkeeperInterface(); 
+            _shop.OpenShopInterface();
+            _dialogPanel.SetActive(false); 
         }
         else
         {
@@ -62,12 +64,7 @@ public class DialogBehaviour : MonoBehaviour
             _dialogPanel.SetActive(false);
         }
     }
-
-    private void OpenShopkeeperInterface()
-    {
-        
-    }
-
+    
     private IEnumerator TypeLine()
     {
         foreach (char c in lastTextsUsed[queueNumber].ToCharArray())
