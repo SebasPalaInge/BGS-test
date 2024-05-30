@@ -7,6 +7,7 @@ public class PauseMenuBehaviour : MonoBehaviour
     public GameObject fullPanel;
     public GameObject buttonHolderPanel;
     public GameObject volumeSettingsPanel;
+    public GameObject creditsInterface;
     public PlayerBehaviour playerBehaviour;
 
     private void Start() 
@@ -17,6 +18,18 @@ public class PauseMenuBehaviour : MonoBehaviour
     public void ExitGameButton()
     {
         Application.Quit();
+    }
+
+    public void OpenCreditsInterface()
+    {
+        creditsInterface.SetActive(true);
+        fullPanel.SetActive(false);
+    }
+
+    public void CloseCreditsInterface()
+    {
+        creditsInterface.SetActive(false);
+        fullPanel.SetActive(true);
     }
 
     public void FullPanelState(bool state)

@@ -9,8 +9,6 @@ AnimatorOverrideController:
   m_Name: clothes_1_override
   m_Controller: {fileID: 9100000, guid: 058efa13453c94e48a17fcf3920016b2, type: 2}
   m_Clips:
-  - m_OriginalClip: {fileID: 7400000, guid: 9b0f8c2fc1feb754791c8056628cfcd1, type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: e7432eecfad189e40897b24dbc34ff8f, type: 2}
   - m_OriginalClip: {fileID: 7400000, guid: c8a0b8d5a7161f240b7f8ba2e11bfe6e, type: 2}
     m_OverrideClip: {fileID: 7400000, guid: 5b0e23710ddac3b4ba440062fa3213ba, type: 2}
   - m_OriginalClip: {fileID: 7400000, guid: c537047dfe902cc498dda29c57eb6dfc, type: 2}
@@ -19,3 +17,11 @@ AnimatorOverrideController:
     m_OverrideClip: {fileID: 7400000, guid: cece0000064e07a43a4457ad7e7076a6, type: 2}
   - m_OriginalClip: {fileID: 7400000, guid: 14cec7c353d624740909efe90c5d775c, type: 2}
     m_OverrideClip: {fileID: 7400000, guid: 601141b0e521a424aa67ebfb966ed6c5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 107a7ef35ba656b468a406b9dc111585, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 15c779887fa41de46b81c7df29a6b1cd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d251d3c8b09473c49a56c56b7b2f2b6c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1ab83ddb87c8d0b4bac7d2eacb1b0088, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e3adc4b79fcc0cc41b547087f1a481d0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f2e92a692ad22b54ea43360492bb14da, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8d77ee83e478e1d429b378c32989ccdb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cafca25316fe02248a25b5a5040c3606, type: 2}

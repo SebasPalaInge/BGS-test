@@ -16,6 +16,11 @@ public class PlayerBehaviour : MonoBehaviour
     Rigidbody2D _rb;
     Animator _animator;
 
+    private const string _horizontal = "horizontal";
+    private const string _vertical = "vertical";
+    private const string _lastHorizontal = "lastHorizontal";
+    private const string _lastVertical = "lastVertical";
+
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
@@ -39,11 +44,10 @@ public class PlayerBehaviour : MonoBehaviour
         float horizontal = Input.GetAxisRaw("Horizontal");
         float vertical = Input.GetAxisRaw("Vertical");
 
-
         if(canMove)
-            inputVector = new Vector2(horizontal, vertical);
+            inputVector.Set(horizontal, vertical);
         else
-            inputVector = new Vector2(0, 0);
+            inputVector.Set(0, 0);
 
     }
 
@@ -54,17 +58,32 @@ public class PlayerBehaviour : MonoBehaviour
 
     private void SetAnimation()
     {
-        _animator.SetFloat("horizontal", inputVector.x);
-        _animator.SetFloat("vertical", inputVector.y);
+        _animator.SetFloat(_horizontal, inputVector.x);
+        _animator.SetFloat(_vertical, inputVector.y);
 
-        _hairAnimator.SetFloat("horizontal", inputVector.x);
-        _hairAnimator.SetFloat("vertical", inputVector.y);
+        _hairAnimator.SetFloat(_horizontal, inputVector.x);
+        _hairAnimator.SetFloat(_vertical, inputVector.y);
         
-        _clothesAnimator.SetFloat("horizontal", inputVector.x);
-        _clothesAnimator.SetFloat("vertical", inputVector.y);
+        _clothesAnimator.SetFloat(_horizontal, inputVector.x);
+        _clothesAnimator.SetFloat(_vertical, inputVector.y);
         
-        _undiesAnimator.SetFloat("horizontal", inputVector.x);
-        _undiesAnimator.SetFloat("vertical", inputVector.y);
+        _undiesAnimator.SetFloat(_horizontal, inputVector.x);
+        _undiesAnimator.SetFloat(_vertical, inputVector.y);
+
+        if(inputVector != Vector2.zero)
+        {
+            _animator.SetFloat(_lastHorizontal, inputVector.x);
+            _animator.SetFloat(_lastVertical, inputVector.y);
+
+            _hairAnimator.SetFloat(_lastHorizontal, inputVector.x);
+            _hairAnimator.SetFloat(_lastVertical, inputVector.y);
+
+            _clothesAnimator.SetFloat(_lastHorizontal, inputVector.x);
+            _clothesAnimator.SetFloat(_lastVertical, inputVector.y);
+
+            _undiesAnimator.SetFloat(_lastHorizontal, inputVector.x);
+            _undiesAnimator.SetFloat(_lastVertical, inputVector.y);
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D trig) 
