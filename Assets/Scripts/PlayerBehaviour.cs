@@ -3,6 +3,8 @@ using UnityEngine;
 public class PlayerBehaviour : MonoBehaviour
 {
     public bool canMove = true;
+    public bool isInteracting = false;
+
     [SerializeField] private Vector2 inputVector;
     [SerializeField] private float playerSpeed;
     Rigidbody2D _rb;
@@ -43,5 +45,21 @@ public class PlayerBehaviour : MonoBehaviour
     {
         _animator.SetFloat("horizontal", inputVector.x);
         _animator.SetFloat("vertical", inputVector.y);
+    }
+
+    private void OnTriggerEnter2D(Collider2D trig) 
+    {
+        if(trig.gameObject.tag.Equals("Interactable"))
+        {
+            trig.GetComponent<PropInteract>().canInteract = true;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D trig) 
+    {
+        if(trig.gameObject.tag.Equals("Interactable"))
+        {
+            trig.GetComponent<PropInteract>().canInteract = false;
+        }  
     }
 }
